@@ -73,6 +73,15 @@ h1{
     margin-bottom: .6rem;
 }
 
+.signature{
+    display: flex;
+    justify-content: center;
+}
+
+.signature img{
+    width: 2rem;
+}
+
 /* css para desktop */
 
 @media screen and (min-width: 780px) {

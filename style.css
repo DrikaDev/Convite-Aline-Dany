@@ -2,7 +2,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'ABeeZee', sans-serif;
 }
 
 /* css para mobile first */
@@ -28,7 +27,7 @@ main{
 
 h1{
     text-align: center;
-    font-size: 1.7rem;
+    font-family: 'Send Flowers', cursive;
 }
 
 .setinha{
@@ -68,10 +67,10 @@ h1{
 
 #about p{
     text-align: center;
-    width: 85%;
+    width: 80%;
     margin: 0 auto;
     font-size: 1.5rem;
-    margin-bottom: 1rem;
+    margin-bottom: .6rem;
 }
 
 /* css para desktop */
@@ -93,6 +92,6 @@ h1{
 
     #about p{
         width: 40%;
-        font-size: 1.3rem;
+        font-size: 1.5rem;
     }
 }
